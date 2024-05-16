@@ -1012,6 +1012,19 @@
     },
 
     {
+        "name": "Amazfit / Zepp",
+        "url": "https://user.huami.com/hm_account/2.0.0/index.html?v=s3.1.1&platform_app=com.huami.watch#/chooseDestory",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and select \"Delete account\".",
+        "notes_ru": "Перейдите на указанную страницу и выберите \"Delete account\".",
+        "domains": [
+            "zepp.com",
+            "huami.com",
+            "amazfit.com"
+        ]
+    },
+
+    {
         "name": "Amazon / Audible",
         "meta": "popular",
         "url": "https://www.amazon.com/privacy/data-deletion",
